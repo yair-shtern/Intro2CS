@@ -1,0 +1,15 @@
+.The program starts from the main_menu.
+The user asked to enter an input (1 - to modify a file, 2 - to compose a melody or 3 - for exit)
+In function valid_input we check if the user enters a valid input we continue to the correct function.
+If he enters 3: the program stopped
+Else if he enters 1: 
+we continue to read_wav_file function that reads a Wave file returns a melody  list from the file we got
+If he enters 2:  
+we continue to compose_melody function that reads from Text file and go to 
+compose_melody_operation  function and using the functions make_composition_lis and make_sample 
+returns a melody list made from the file we got from the user
+Then we continue to the modification_menu.
+Using valid_operation funtion we check if the user enters a valid input (1-8) 
+we continue to the correct function.
+If he enters 8: we returns to the home menu using the function exit_menu that save the current changes 
+Else we continue to the operation that he chose using operations function.
