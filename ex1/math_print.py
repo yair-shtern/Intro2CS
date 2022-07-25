@@ -1,6 +1,6 @@
 #################################################################
 # FILE : math_print.py
-# WRITER : Yair Shtern , yair.shtern , 318442241
+# WRITER : Yair Shtern
 # EXERCISE : intro2cs1 ex1 2020
 # DESCRIPTION: A simple program that prints the result on
 # a number of simple mathematical calculations.

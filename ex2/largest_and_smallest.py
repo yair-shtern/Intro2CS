@@ -1,6 +1,6 @@
 #########################################################################
 # FILE : largest_and_smallest.py
-# WRITER : Yair Shtern , yair.shtern , 318442241
+# WRITER : Yair Shtern
 # EXERCISE : intro2cs1 ex2 2020
 # DESCRIPTION: A simple program that receives three numbers and return
 # two numbers first the largest and second the smallest

@@ -1,6 +1,6 @@
 #########################################################################
 # FILE : calculate_mathematical_expression.py
-# WRITER : Yair Shtern , yair.shtern , 318442241
+# WRITER : Yair Shtern
 # EXERCISE : intro2cs1 ex2 2020
 # DESCRIPTION: A simple program that calculate mathematical expression
 # with to functions one receives two numbers and string (with the -

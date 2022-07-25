@@ -1,6 +1,6 @@
 #####################################################
 # FILE : ex3.py
-# WRITER : Yair Shtern , yair.shtern , 318442241
+# WRITER : Yair Shtern
 # EXERCISE : intro2cs1 ex3 2020
 # DESCRIPTION: A program about loops and lists
 #####################################################

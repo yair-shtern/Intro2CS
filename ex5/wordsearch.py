@@ -1,6 +1,6 @@
 ########################################################################
 # FILE : wordsearch.py
-# WRITER : Yair Shtern , yair.shtern , 318442241
+# WRITER : Yair Shtern
 # EXERCISE : intro2cs1 ex5 2020
 # DESCRIPTION: word search.
 # A program that receives from the command line 4 parameters.

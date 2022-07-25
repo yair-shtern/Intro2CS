@@ -1,6 +1,6 @@
 ############################################################
 # FILE : ex11.py
-# WRITER : Yair Shtern , yair.shtern , 318442241
+# WRITER : Yair Shtern
 # EXERCISE : intro2cs1 ex11 2020
 # DESCRIPTION: Diagnoses Trees
 ############################################################

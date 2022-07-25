@@ -1,6 +1,6 @@
 ########################################################################
 # FILE : hangman.py
-# WRITER : Yair Shtern , yair.shtern , 318442241
+# WRITER : Yair Shtern
 # EXERCISE : intro2cs1 ex4 2020
 # DESCRIPTION: Hangman game
 # The user need to guess a word hidden behind a pattern.

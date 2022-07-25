@@ -1,6 +1,6 @@
 ############################################################
 # FILE : game.py
-# WRITER : Yair Shtern , yair.shtern , 318442241
+# WRITER : Yair Shtern
 # EXERCISE : intro2cs1 ex9 2020
 # DESCRIPTION: Rush Hour
 ############################################################

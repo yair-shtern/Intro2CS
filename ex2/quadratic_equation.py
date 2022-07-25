@@ -1,6 +1,6 @@
 #########################################################################
 # FILE : quadratic_equation.py
-# WRITER : Yair Shtern , yair.shtern , 318442241
+# WRITER : Yair Shtern
 # EXERCISE : intro2cs1 ex2 2020
 # DESCRIPTION: A program that solves a quadratic equation.
 # The program receives from the user an input of 3 coordinates which -

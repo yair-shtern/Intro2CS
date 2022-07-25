@@ -1,6 +1,6 @@
 #################################################################
 # FILE : hello_turtle.py
-# WRITER : Yair Shtern , yair.shtern , 318442241
+# WRITER : Yair Shtern
 # EXERCISE : intro2cs1 ex1 2020
 # DESCRIPTION: A simple program that draw a bed of 3 flowers.
 #################################################################

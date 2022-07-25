@@ -1,6 +1,6 @@
 #########################################################################
 # FILE : temperature.py
-# WRITER : Yair Shtern , yair.shtern , 318442241
+# WRITER : Yair Shtern
 # EXERCISE : intro2cs1 ex2 2020
 # DESCRIPTION: A program that gets 3 numbers which represent
 # (max temperature, day1 temperature, day2 temperature, day3 temperature)

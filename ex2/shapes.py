@@ -1,6 +1,6 @@
 #########################################################################
 # FILE : shapes.py
-# WRITER : Yair Shtern , yair.shtern , 318442241
+# WRITER : Yair Shtern
 # EXERCISE : intro2cs1 ex2 2020
 # DESCRIPTION: A program that receives from the user an input
 # that represent a shape (circle\rectangle\equilateral triangle)
